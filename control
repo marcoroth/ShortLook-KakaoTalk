@@ -1,0 +1,9 @@
+Package: ch.marcoroth.shortlook.plugin.contact-photo.kakaotalk
+Name: KakaoTalk Contact Photos for ShortLook
+Depends: mobilesubstrate, co.dynastic.ios.tweak.shortlook
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Show KakaoTalk Contact Photos in ShortLook when you receive a KakaoTalk notification!
+Maintainer: Marco Roth
+Author: Marco Roth
+Section: Tweaks (ShortLook)
